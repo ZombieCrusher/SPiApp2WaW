@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SPiApp", "SPiApp\SPiApp.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SPiApp2", "SPiApp2\SPiApp2.csproj", "{3926A355-B5DC-4843-9A59-1CCE77EB587A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoD5SPiApp2", "CoD5SPiApp2\CoD5SPiApp2.csproj", "{17EB151C-380C-426C-93E2-E5F73CEB79AD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -19,6 +21,10 @@ Global
 		{3926A355-B5DC-4843-9A59-1CCE77EB587A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3926A355-B5DC-4843-9A59-1CCE77EB587A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3926A355-B5DC-4843-9A59-1CCE77EB587A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{17EB151C-380C-426C-93E2-E5F73CEB79AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17EB151C-380C-426C-93E2-E5F73CEB79AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17EB151C-380C-426C-93E2-E5F73CEB79AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17EB151C-380C-426C-93E2-E5F73CEB79AD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

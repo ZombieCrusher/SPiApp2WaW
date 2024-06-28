@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{3926A355-B5DC-4843-9A59-1CCE77EB587A}</ProjectGuid>
+    <ProjectGuid>{17EB151C-380C-426C-93E2-E5F73CEB79AD}</ProjectGuid>
     <OutputType>WinExe</OutputType>
     <RootNamespace>SPiApp2</RootNamespace>
     <AssemblyName>SPiApp2</AssemblyName>
